@@ -1,0 +1,7 @@
+numpy
+easyocr
+Pillow
+keyboard
+opencv-python
+pyperclip
+pyautogui
